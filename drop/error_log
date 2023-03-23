@@ -1,0 +1,5 @@
+[03-Oct-2017 04:08:42 America/Chicago] PHP Fatal error:  Undefined class constant 'HTTP_DROPBOX_COM_LOGIN' in /home3/caddcentre/public_html/sys1/drop/DropboxUploader.php on line 161
+[03-Oct-2017 04:15:36 America/Chicago] PHP Fatal error:  Undefined class constant 'HTTP_DROPBOX_COM_LOGIN' in /home3/caddcentre/public_html/sys1/drop/DropboxUploader.php on line 161
+[03-Oct-2017 04:23:18 America/Chicago] PHP Fatal error:  Undefined class constant 'HTTP_DROPBOX_COM_LOGIN' in /home3/caddcentre/public_html/sys1/drop/DropboxUploader.php on line 161
+[03-Oct-2017 04:24:44 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home3/caddcentre/public_html/sys1/drop/DropboxUploader.php on line 242
+[03-Oct-2017 04:27:17 America/Chicago] PHP Fatal error:  Class name must be a valid object or a string in /home3/caddcentre/public_html/sys1/drop/index2.php on line 19

@@ -1,0 +1,2 @@
+[26-Sep-2017 00:35:05 America/Chicago] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home3/caddcentre/public_html/sys1/systest/Emails/index.php on line 9
+[26-Sep-2017 00:35:14 America/Chicago] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home3/caddcentre/public_html/sys1/systest/Emails/index.php on line 9

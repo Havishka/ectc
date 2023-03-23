@@ -1,0 +1,31 @@
+[21-Sep-2017 08:46:34 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home3/caddcentre/public_html/sys1/systest/inside/Admin/M_BRANCH/MANAGEBRANCHindex.php on line 440
+[21-Sep-2017 08:46:41 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home3/caddcentre/public_html/sys1/systest/inside/Admin/M_BRANCH/MANAGEBRANCHindex.php on line 440
+[28-Sep-2017 01:49:28 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home3/caddcentre/public_html/sys1/inside/Admin/USER_LOG/LogSindex.php on line 590
+[28-Sep-2017 01:50:13 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home3/caddcentre/public_html/sys1/inside/Admin/USER_LOG/LogSindex.php on line 590
+[28-Sep-2017 01:51:28 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home3/caddcentre/public_html/sys1/inside/Admin/USER_LOG/LogSindex.php on line 590
+[28-Sep-2017 01:56:05 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home3/caddcentre/public_html/sys1/inside/Admin/USER_LOG/LogSindex.php on line 590
+[28-Sep-2017 01:58:57 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home3/caddcentre/public_html/sys1/inside/Admin/USER_LOG/LogSindex.php on line 590
+[28-Sep-2017 01:59:22 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home3/caddcentre/public_html/sys1/inside/Admin/USER_LOG/LogSindex.php on line 590
+[03-Oct-2017 23:55:23 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[09-Oct-2017 04:06:04 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home3/caddcentre/public_html/sys1/inside/Admin/M_BRANCH/MANAGEBRANCHindex.php on line 477
+[09-Oct-2017 05:27:58 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home3/caddcentre/public_html/sys1/inside/Admin/M_BRANCH/MANAGEBRANCHindex.php on line 477
+[09-Oct-2017 05:28:13 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home3/caddcentre/public_html/sys1/inside/Admin/M_BRANCH/MANAGEBRANCHindex.php on line 477
+[09-Oct-2017 05:29:45 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home3/caddcentre/public_html/sys1/inside/Admin/M_BRANCH/MANAGEBRANCHindex.php on line 477
+[20-Oct-2017 02:33:01 America/Chicago] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home3/caddcentre/public_html/sys1/inside/reg/edit.php on line 191
+[20-Oct-2017 02:33:01 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home3/caddcentre/public_html/sys1/inside/reg/edit.php on line 197
+[20-Oct-2017 02:33:01 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home3/caddcentre/public_html/sys1/inside/reg/edit.php on line 201
+[29-Nov-2017 02:02:15 America/Chicago] PHP Warning:  include(pay/payment_refund_main.php): failed to open stream: No such file or directory in /home3/caddcentre/public_html/sys1/inside/index.php on line 514
+[29-Nov-2017 02:02:15 America/Chicago] PHP Warning:  include(pay/payment_refund_main.php): failed to open stream: No such file or directory in /home3/caddcentre/public_html/sys1/inside/index.php on line 514
+[29-Nov-2017 02:02:15 America/Chicago] PHP Warning:  include(): Failed opening 'pay/payment_refund_main.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home3/caddcentre/public_html/sys1/inside/index.php on line 514
+[29-Nov-2017 02:02:28 America/Chicago] PHP Warning:  include(pay/payment_refund_main.php): failed to open stream: No such file or directory in /home3/caddcentre/public_html/sys1/inside/index.php on line 514
+[29-Nov-2017 02:02:28 America/Chicago] PHP Warning:  include(pay/payment_refund_main.php): failed to open stream: No such file or directory in /home3/caddcentre/public_html/sys1/inside/index.php on line 514
+[29-Nov-2017 02:02:28 America/Chicago] PHP Warning:  include(): Failed opening 'pay/payment_refund_main.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home3/caddcentre/public_html/sys1/inside/index.php on line 514
+[29-Nov-2017 02:04:17 America/Chicago] PHP Warning:  include(pay/payment_refund_main.php): failed to open stream: No such file or directory in /home3/caddcentre/public_html/sys1/inside/index.php on line 514
+[29-Nov-2017 02:04:17 America/Chicago] PHP Warning:  include(pay/payment_refund_main.php): failed to open stream: No such file or directory in /home3/caddcentre/public_html/sys1/inside/index.php on line 514
+[29-Nov-2017 02:04:17 America/Chicago] PHP Warning:  include(): Failed opening 'pay/payment_refund_main.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home3/caddcentre/public_html/sys1/inside/index.php on line 514
+[29-Nov-2017 02:04:27 America/Chicago] PHP Warning:  include(pay/payment_refund_main.php): failed to open stream: No such file or directory in /home3/caddcentre/public_html/sys1/inside/index.php on line 514
+[29-Nov-2017 02:04:27 America/Chicago] PHP Warning:  include(pay/payment_refund_main.php): failed to open stream: No such file or directory in /home3/caddcentre/public_html/sys1/inside/index.php on line 514
+[29-Nov-2017 02:04:27 America/Chicago] PHP Warning:  include(): Failed opening 'pay/payment_refund_main.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home3/caddcentre/public_html/sys1/inside/index.php on line 514
+[29-Nov-2017 03:07:01 America/Chicago] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home3/caddcentre/public_html/sys1/inside/reg/edit.php on line 182
+[29-Nov-2017 03:07:01 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home3/caddcentre/public_html/sys1/inside/reg/edit.php on line 188
+[29-Nov-2017 03:07:01 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home3/caddcentre/public_html/sys1/inside/reg/edit.php on line 192

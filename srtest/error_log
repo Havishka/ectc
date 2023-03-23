@@ -1,0 +1,8 @@
+[27-Sep-2017 00:06:18 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/caddcentre/public_html/sys1/srtest/connection.php on line 2
+[27-Sep-2017 00:06:18 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/caddcentre/public_html/sys1/srtest/login_q.php on line 41
+[27-Sep-2017 00:08:45 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'root'@'localhost' to database 'status_db' in /home3/caddcentre/public_html/sys1/srtest/connection.php on line 2
+[27-Sep-2017 00:08:45 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/caddcentre/public_html/sys1/srtest/login_q.php on line 41
+[27-Sep-2017 00:10:16 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'root'@'localhost' to database 'status_db' in /home3/caddcentre/public_html/sys1/srtest/connection.php on line 2
+[27-Sep-2017 00:10:16 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/caddcentre/public_html/sys1/srtest/login_q.php on line 41
+[27-Sep-2017 04:02:08 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'root'@'localhost' to database 'status_db' in /home3/caddcentre/public_html/sys1/srtest/connection.php on line 2
+[27-Sep-2017 04:02:08 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/caddcentre/public_html/sys1/srtest/login_q.php on line 41

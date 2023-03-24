@@ -1,11 +1,6 @@
-FROM php:7.4-apache
+FROM php:8.0-apache
+WORKDIR /var/www/html/ectc
 
-RUN docker-php-ext-install mysqli && docker-php-ext-enable mysqli
-
-RUN apt-get update && apt-get install -y \
-    mysql-client \
-    phpmyadmin
-
-COPY ./ectc /var/www/html/ectc
-
-CMD ["apache2-foreground"]
+COPY ./ /var/www/html/ectc/
+RUN apt-get update -y && apt-get install -y libmariad-dev
+RUN docker-php-ext-install mysqli

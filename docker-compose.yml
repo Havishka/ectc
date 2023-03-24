@@ -7,7 +7,7 @@ services:
     ports:
       - 9000:80
 
-  localhost:
+  mydb:
     image: mysql:latest
     # NOTE: use of "mysql_native_password" is not recommended: https://dev.mysql.com/doc/refman/8.0/en/upgrading-from-previous-series.html#upgrade-caching-sha2-password
     # (this is just an example, not intended to be a production configuration)
@@ -22,6 +22,6 @@ services:
     ports:
       - 9001:80
     environment:
-      - PMA_ARBITRARY=1
+      - PMA_ARBITRARY=mydb
 
     

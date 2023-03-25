@@ -1,8 +1,21 @@
-FROM php:8.0-apache
-WORKDIR /var/www/html/ectc
+FROM php:7.4.3-apache
+RUN apt-get update && apt-get install -y \
+    curl \
+    nano \
+    sudo \
+    default-libmysqlclient-dev
+
+RUN docker-php-ext-install mysqli
 
 COPY ./ /var/www/html/ectc/
-RUN apt-get update -y && apt-get install -y default-libmysqlclient-dev
-RUN apt-get update && apt-get install -y nano
-RUN apt-get update && apt-get install -y sudo
-RUN docker-php-ext-install mysqli
+
+WORKDIR /var/www/html/ectc
+
+EXPOSE 80
+
+CMD ["apache2-foreground"]
+
+
+
+
+
